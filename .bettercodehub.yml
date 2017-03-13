@@ -1,0 +1,21 @@
+exclude:
+- /.eslintrc.js
+- /Gruntfile.js
+- /docs/.*
+- /eslint-rules/.*
+- /examples/.*
+- /fixtures/.*
+- /flow/.*
+- /grunt/.*
+- /gulp/tasks/.*
+- /gulpfile.js
+- /mocks/.*
+- /packages/.*
+- /scripts/.*
+component_depth: 1
+languages:
+- cpp
+- javascript
+- python
+- script
+- typescript
